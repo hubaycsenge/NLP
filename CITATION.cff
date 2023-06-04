@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Hubay
+    given-names: Csenge
+title: "Natural Language Processing project, 2023"
+date-released: 2023-06-04
